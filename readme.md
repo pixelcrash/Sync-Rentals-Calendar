@@ -11,3 +11,7 @@
 9. There is still going to be delay, as all services refresh on different rates
 
 This script is using the php ELUCEO Library by Markus Poerschke
+
+
+# Update 23.01.2020
+Airbnb is constantly updating their ical data. So please test drive it for some days/week before you really use it for production. 
